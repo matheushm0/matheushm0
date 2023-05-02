@@ -16,7 +16,7 @@ I'm a software engineer with expertise in Spring, Java, backend development, sca
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,gradle,maven,eclipse,postgres,docker" />
+    <img src="https://skillicons.dev/icons?i=java,spring,gradle,maven,eclipse,postgres,git,docker" />
   </a>
 </p>
 
@@ -29,6 +29,6 @@ I'm a software engineer with expertise in Spring, Java, backend development, sca
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/matheushm0"><img src="https://github-readme-stats.vercel.app/api?username=matheushm0&show_icons=true&theme=dracula" alt="matheushm0's GitHub stats" /></a>
+<a href="http://www.github.com/matheushm0"><img src="https://github-readme-stats.vercel.app/api?username=matheushm0&show_icons=true&theme=dark" alt="matheushm0's GitHub stats" /></a>
 
-<a href="https://github.com/matheushm0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushm0&hide_progress=true&theme=dracula" alt="Top Languages" /></a>
+<a href="https://github.com/matheushm0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushm0&hide_progress=true&theme=dark" alt="Top Languages" /></a>
