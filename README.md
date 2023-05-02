@@ -6,7 +6,7 @@ Software Engineer and Backend Developer
 
 I'm a software engineer with expertise in Spring, Java, backend development, scalability, and continuous improvement. I've developed Java applications and REST APIs, resulting in successful business outcomes and improved web connectivity. I enjoy problem-solving and have developed highly scalable and secure financial processing systems. My optimism, institutional memory, and resourcefulness make me a valuable asset to any team.
 
-* 🌍  I'm based in Fortaleza, Brazil
+* 🌍  I'm based in Brazil, Fortaleza - Ceará
 * 🚀  I'm currently working on [VMetrix](http://www.vmetrix.com/)
 * 🧠  I'm learning AWS
 * ⚡  I believe in the power of positivity and taking action
